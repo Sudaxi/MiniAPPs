@@ -1,9 +1,8 @@
 {
   "pages":[
-    "page/component/pages/index/index",
-    "page/component/pages/life/life",
-    "page/component/pages/logs/logs",
-    "page/component/pages/show/show"
+    "pages/index/index",
+    "pages/life/life",
+    "pages/logs/logs"
   ],
   "window":{
     "backgroundTextStyle":"light",
@@ -16,14 +15,14 @@
     "color": "#aaa",
     "selectedColor": "#000000",
     "backgroundColor": "#fff",
-    "borderStyle": "#b1b1b1",
+    "borderStyle": "white",
     "list": [{
-      "pagePath": "page/component/pages/index/index",
+      "pagePath": "pages/index/index",
       "text": "首页",
       "iconPath": "images/home_on.png",
       "selectedIconPath": "images/home.png"
     },{
-      "pagePath": "page/component/pages/life/life",
+      "pagePath": "pages/life/life",
       "text": "生活",
       "iconPath": "images/life_on.png",
       "selectedIconPath": "images/life.png"

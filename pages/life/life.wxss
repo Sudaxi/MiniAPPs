@@ -8,7 +8,3 @@
   padding: 24rpx 0;
   box-sizing: border-box;
 } 
-.modelshow {
-  border-radius: 50%;
-  margin-top: 50px;
-}

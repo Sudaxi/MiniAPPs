@@ -1,0 +1,4 @@
+<view class="container">
+<text>{{mytext}}</text>
+<text>{{mytext1.mystr}}</text>
+</view>
