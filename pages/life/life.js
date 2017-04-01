@@ -1,6 +1,9 @@
 Page({
   data:{
-    mytext:'First-WeChat-Mini-app'
+    mytext:'欢迎来到大喜杂货店',
+    mytext1:{
+      mystr:'Daxi杂货店'
+    }
   },
   onLoad:function(options){
     // 生命周期函数--监听页面加载
@@ -9,11 +12,5 @@ Page({
   },
     myfunction:function(){
     console.log("myfunction");
-    },
-  dxfunction:function(){
-    console.log("执行dxfunction");
-    this.setData({
-mytext:'欢迎来到大喜杂货店'
-    });
-  }
+    }
 })

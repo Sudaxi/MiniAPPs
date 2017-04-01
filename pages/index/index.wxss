@@ -23,4 +23,5 @@
 .userinfo-log {
   width: 200rpx;
   margin-top: 12px;
+  text-align: center;
 }

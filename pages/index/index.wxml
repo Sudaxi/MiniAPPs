@@ -6,6 +6,6 @@
   </view>
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
-        <button type="default" bindtap="bindViewTap" class="userinfo-log">查看log</button>
+        <navigator url="../logs/logs" hover-class="navigator-hover" value="居中" class="userinfo-log">查看日志</navigator>
   </view>
 </view>

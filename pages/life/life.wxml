@@ -1,4 +1,4 @@
 <view class="container">
 <text>{{mytext}}</text>
-<button type="default" bindtap="dxfunction">点击事件</button>
+<text>{{mytext1.mystr}}</text>
 </view>
