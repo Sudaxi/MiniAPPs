@@ -1,0 +1,8 @@
+
+<view class="container">
+<text>组件container</text>
+<button type="primary" size="{{defaultSize}}" bindtap="setViews" hover-class="button-hover" class="buttonstype">views</button>
+<button type="warn" size="{{defaultSize}}"bindtap="setScrollview" class="buttonstype">scrollview</button>
+</view>
+
+

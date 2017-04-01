@@ -1,0 +1,5 @@
+<view class="container">
+<text>{{mytext}}</text>
+<text>{{mytext1.mystr}}</text>
+        <navigator url="../show/show" hover-class="navigator-hover" class="modelshow">组件演示</navigator>
+</view>
