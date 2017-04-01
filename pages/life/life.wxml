@@ -1,4 +1,5 @@
 <view class="container">
 <text>{{mytext}}</text>
 <text>{{mytext1.mystr}}</text>
+<navigator url="../show/show" hover-class="navigator-hover">组件</navigator>
 </view>

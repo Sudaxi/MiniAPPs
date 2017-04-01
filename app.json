@@ -2,7 +2,8 @@
   "pages":[
     "pages/index/index",
     "pages/life/life",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/show/show"
   ],
   "window":{
     "backgroundTextStyle":"light",
@@ -15,7 +16,7 @@
     "color": "#aaa",
     "selectedColor": "#000000",
     "backgroundColor": "#fff",
-    "borderStyle": "white",
+    "borderStyle": "#b1b1b1",
     "list": [{
       "pagePath": "pages/index/index",
       "text": "首页",
